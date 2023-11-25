@@ -33,9 +33,9 @@ var marksobj={
 
 }
 var studentDetails={
-    name:'Bittu',
-    roll_no:61,
-    class:'BCA(Sem-IV',
+    name:'abhishek',
+    roll_no:343,
+    class:'BA',
     sectioin:'A',
     printReportCard:function(){
         console.log('+--------------------+')
